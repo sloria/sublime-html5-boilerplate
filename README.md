@@ -1,6 +1,6 @@
 # Sublime HTML5 Boilerplate
 
-A Sublime Text 2/3 snippet to generate the HTML5 Boilerplate (v4.3.0) template.
+A Sublime Text 2/3 snippet to generate the HTML5 Boilerplate (v5.3.0) template.
 
 ## Install
 
